@@ -1,6 +1,6 @@
 #### 프로젝트 관련 레포지토리입니다.
-[미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Trailblazer-Yoo/project_interest_rate)
-[제 20대 대선 후보 정책•공약 시각화 경진대회](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)
+##### [미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Trailblazer-Yoo/project_interest_rate)
+##### [제 20대 대선 후보 정책•공약 시각화 경진대회](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)
 
 <!--
 **Trailblazer-Yoo/Trailblazer-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
