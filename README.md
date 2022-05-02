@@ -1,6 +1,13 @@
-#### 프로젝트 관련 레포지토리입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=SeonJong%20Yoo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
+#### 📂 프로젝트 관련 레포지토리입니다.
 ##### [미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Trailblazer-Yoo/project_interest_rate)
 ##### [제 20대 대선 후보 정책•공약 시각화 경진대회](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)
+
+[![SeonJong's github stats](https://github-readme-stats.vercel.app/api?username=Trailblazer-Yoo)](https://github.com/Trailblazer-Yoo&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trailblazer-Yoo&layout=compact)](https://github.com/Trailblazer-Yoo/github-readme-stats)
+
 
 <!--
 **Trailblazer-Yoo/Trailblazer-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
