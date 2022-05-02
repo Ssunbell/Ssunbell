@@ -2,8 +2,8 @@
 
 
 <div align="center">
-#### <center>🛠 Tech Stacks 🛠
-Techs that I've used at least once
+  #### <center>🛠 Tech Stacks 🛠</br>
+Techs that I've used at least once<br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </div>
 
