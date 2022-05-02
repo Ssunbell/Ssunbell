@@ -1,22 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=250&section=header&text=SeonJong%20Yoo&fontSize=90&fontColor=ffffff6&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-<div align=center>
-<h2>🛠 Tech Stacks 🛠</h2>
-Techs that I've used at least once
-<h6><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp</h6>
-</div>
+##🛠 Tech Stacks 🛠{: .text-center }
+Techs that I've used at least once{: .text-center }
+######<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp{: .text-center }
 
-<div align=left>
 #### 📂 Projects
 ##### - 🔍 [미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Trailblazer-Yoo/project_interest_rate)
 ##### - 🔍 [제 20대 대선 후보 정책•공약 시각화 경진대회](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)
-</div>
 
-<div align=left>
 #### 📚 Study
 ##### - 🧑‍💻 [알고리즘 스터디](https://github.com/Trailblazer-Yoo/Algorithm_Study)
 [![SeonJong's github stats](https://github-readme-stats.vercel.app/api?username=Trailblazer-Yoo)](https://github.com/Trailblazer-Yoo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trailblazer-Yoo&layout=compact)](https://github.com/Trailblazer-Yoo/github-readme-stats)
-</div>
 
 <!--
 **Trailblazer-Yoo/Trailblazer-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
