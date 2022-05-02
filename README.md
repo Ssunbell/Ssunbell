@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#6667AB&height=250&section=header&text=SeonJong%20Yoo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#6667AB&height=250&section=header&text=SeonJong%20Yoo&fontSize=90&fontColor=d6ace6&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 #### 📂 Projects
 ##### - 🔍 [미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Trailblazer-Yoo/project_interest_rate)
