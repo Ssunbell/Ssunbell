@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6667AB&height=250&section=header&text=SeonJong%20Yoo&fontSize=90&fontColor=ffffff6&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-
-<div align="center">#### 🛠 Tech Stacks 🛠</br>Techs that I've used at least once<br/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-</div>
+<div align=center><h4>🛠 Tech Stacks 🛠</h4></div>
+<div align=center><h6>Techs that I've used at least once</h6></div>
+<div align=center><h6><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp</h6></div>
 
 #### 📂 Projects
 ##### - 🔍 [미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Trailblazer-Yoo/project_interest_rate)
