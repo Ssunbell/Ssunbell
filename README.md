@@ -12,6 +12,7 @@
 
 #### 📚 Study
 ##### - 🧑‍💻 [알고리즘 스터디](https://github.com/Trailblazer-Yoo/Algorithm_Study)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yousun9591)](https://solved.ac/yousun9591)
 [![SeonJong's github stats](https://github-readme-stats.vercel.app/api?username=Trailblazer-Yoo)](https://github.com/Trailblazer-Yoo&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trailblazer-Yoo&layout=compact)](https://github.com/Trailblazer-Yoo/github-readme-stats)
 
 <!--
