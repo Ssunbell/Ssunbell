@@ -18,9 +18,10 @@
 ##### - 🔍 [네이버 부스트캠프 대회 - 오픈 도메인 질의응답](https://github.com/boostcampaitech4lv23nlp1/level2_mrc_nlp-level2-nlp-03)
 ##### - 🔍 [네이버 부스트캠프 대회 - 관계 추출](https://github.com/boostcampaitech4lv23nlp1/level2_klue_nlp-level2-nlp-03)
 ##### - 🔍 [네이버 부스트캠프 대회 - 문장 유사도 분류](https://github.com/boostcampaitech4nlp1/level1_semantictextsimilarity_nlp-level1-nlp-06)
-##### - 🔍 [종목 토론방 데이터 감정분석을 이용한 공포•탐욕 심리 지수 개발](https://github.com/Ssunbell/stl_promise_Visualization)
-##### - 🔍 [제 20대 대선 후보 정책•공약 시각화 경진대회](https://github.com/Ssunbell/stl_promise_Visualization)
-##### - 🔍 [미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Ssunbell/project_interest_rate)
+##### - 🔍 [한국관광공사(Kakao) - 전통주 사전 및 커뮤니티 어플 개발](https://github.com/Ssunbell/yosul)
+##### - 🔍 [데이콘(KRX) - 종목 토론방 데이터 감정분석을 이용한 공포•탐욕 심리 지수 개발](https://github.com/Ssunbell/stl_promise_Visualization)
+##### - 🔍 [데이콘 - 제 20대 대선 후보 정책•공약 시각화 경진대회](https://github.com/Ssunbell/stl_promise_Visualization)
+##### - 🔍 [멀티캠퍼스 - 미 연준 텍스트 데이터를 활용한 금리 예측](https://github.com/Ssunbell/project_interest_rate)
 
 #### 📚 Study
 ##### - 🧑‍💻 [알고리즘 스터디](https://github.com/Ssunbell/Algorithm_Study)
