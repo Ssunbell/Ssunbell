@@ -25,7 +25,7 @@
 
 #### 📚 Study
 ##### - 🧑‍💻 [알고리즘 스터디](https://github.com/Ssunbell/Algorithm_Study)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yousun9591)](https://solved.ac/yousun9591)[![SeonJong's github stats](https://github-readme-stats.vercel.app/api?username=Trailblazer-Yoo)](https://github.com/Trailblazer-Yoo&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yousun9591)](https://solved.ac/yousun9591)[![SeonJong's github stats](https://github-readme-stats.vercel.app/api?username=Ssunbell)](https://github.com/Ssunbell&show_icons=true&theme=tokyonight)
 
 <!--
 **Ssunbell/Ssunbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
